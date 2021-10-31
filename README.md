@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning.
 - 🌱 I’m currently learning ... HTML, CSS, Javascript.
 - 💞️ I’m looking to collaborate on ... course assignments.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... use Linkedin
 
 <!---
 PAUL34913/PAUL34913 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
