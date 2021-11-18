@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PAUL34913
 - 👀 I’m interested in ... learning.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript.
-- 💞️ I’m looking to collaborate on ... course assignments.
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Bootstrap,  React, MongoDB.
+- 💞️ I’m looking to collaborate on ... something in the future..
 - 📫 How to reach me ... use Linkedin
 
 <!---
