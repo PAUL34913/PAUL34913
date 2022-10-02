@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAUL34913
 - 👀 I’m interested in ... learning.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, Bootstrap,  React, MongoDB.
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Bootstrap, mySQL.
 - 💞️ I’m looking to collaborate on ... something in the future..
 - 📫 How to reach me ... use Linkedin
 
